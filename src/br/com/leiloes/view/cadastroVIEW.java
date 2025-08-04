@@ -1,3 +1,10 @@
+package br.com.leiloes.view;
+
+
+import br.com.leiloes.data.ProdutosDTO;
+import br.com.leiloes.data.ProdutosDAO;
+import br.com.leiloes.view.listagemVIEW;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
