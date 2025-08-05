@@ -1,5 +1,9 @@
+package br.com.Leiloes.data;
 
 
+
+import br.com.Leiloes.data.ProdutosDTO;
+import br.com.Leiloes.data.conectaDAO;
 import java.sql.PreparedStatement;
 import java.sql.Connection;
 import javax.swing.JOptionPane;

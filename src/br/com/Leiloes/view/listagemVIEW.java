@@ -1,4 +1,8 @@
+package br.com.Leiloes.view;
 
+
+import br.com.Leiloes.data.ProdutosDAO;
+import br.com.Leiloes.data.ProdutosDTO;
 import java.util.ArrayList;
 import javax.swing.table.DefaultTableModel;
 

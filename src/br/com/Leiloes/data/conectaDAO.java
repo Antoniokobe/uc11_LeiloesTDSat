@@ -1,3 +1,5 @@
+package br.com.Leiloes.data;
+
 
 import java.sql.Connection;
 import java.sql.DriverManager;

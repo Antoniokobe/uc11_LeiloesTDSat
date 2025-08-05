@@ -1,3 +1,10 @@
+package br.com.Leiloes.view;
+
+
+import br.com.Leiloes.data.ProdutosDAO;
+import br.com.Leiloes.data.ProdutosDTO;
+import br.com.Leiloes.view.listagemVIEW;
+
 
 public class cadastroVIEW extends javax.swing.JFrame {
 
