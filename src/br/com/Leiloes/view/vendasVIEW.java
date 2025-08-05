@@ -84,7 +84,7 @@ public class vendasVIEW extends javax.swing.JFrame {
             }
         });
 
-        jLabel2.setFont(new java.awt.Font("Lucida Fax", 1, 18)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Lucida Fax", 1, 24)); // NOI18N
         jLabel2.setText("Lista de Produtos");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -111,7 +111,7 @@ public class vendasVIEW extends javax.swing.JFrame {
                 .addGap(9, 9, 9)
                 .addComponent(jLabel2)
                 .addGap(18, 18, 18)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 250, Short.MAX_VALUE)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 242, Short.MAX_VALUE)
                 .addGap(18, 18, 18)
                 .addComponent(btnVoltar)
                 .addContainerGap())
